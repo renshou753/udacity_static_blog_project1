@@ -3,7 +3,7 @@ Deploy Static Website on AWS
 In this project, I deployed a static website to AWS using S3, CloudFront, and IAM.
 
 Entry Url: http://aws-static-blog.s3-website-us-east-1.amazonaws.com/
-Cloudfront URL: d3hqznnl28byhs.cloudfront.net
+Cloudfront URL: http://d3hqznnl28byhs.cloudfront.net/
 
 The files included are: 
 
